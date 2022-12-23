@@ -1,3 +1,3 @@
 # COLLOR-FLIPPER
 HTML/CSS/JS
-Background que muda de cor ao ser acionado um botão
+Aplicação que escolhe uma cor aleatoriamente e oferece o seu número em hexa.
